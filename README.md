@@ -2,7 +2,7 @@ About Me
 
 Background:
 
-Hello! I am a Full Stack Developer currently employed at Harled. I am passionate about how technology impacts human health and behaviours.
+Hello! I am a Full Stack Developer currently employed at [Harled](https://harled.ca). I am passionate about how technology impacts human health and behaviours.
 
 Programming Languages Most Familiar With:
   - Javascript
