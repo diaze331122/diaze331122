@@ -2,9 +2,9 @@ HUG - A Human User Guide!
 
 Summary:
 
-I am a full stack developer currently employed at Harled. I have 2+ years of experience as a developer in the publishing industry. My interests lie with emerging tech health and crypto. Open Science has always been a passion of mine and I strongly advocate for society to be empowered by having access to peer reviewed data. I usually prefer to work independently but recently I have taken a liking to peer programming.
+I am a full stack developer currently employed at Harled. I have 2+ years of experience as a developer in the publishing industry. My interests lie with emerging tech health and crypto. Open Science has always been a passion of mine and I strongly advocate for society to be empowered by having access to peer reviewed data. I usually prefer to work independently but recently I have taken a liking to peer programming. I also prefer to work with easy going people that can stay focused on the task. Working with others is always a learning experience!
 
-PS: The best way to understand and learn about someone is to talk to them! Don't take this HUG seriously!
+PS: The best way to understand and learn about someone is to talk to them! Don't take this HUG too seriously!
 
 Questions to be addressed:
 
