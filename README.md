@@ -9,10 +9,10 @@ PS: The best way to understand and learn about someone is to talk to them! Don't
 Questions to be addressed:
 
 - Q: What energizes you?
-- A: A cup of Coffee and starting a new project (definitely the dopamine!)
+  - A: A cup of Coffee and starting a new project (definitely the dopamine!)
   
 - Q: What depletes your energy?
-- A: Doing things for the sake of doing it without a good reason/goal.
+  - A: Doing things for the sake of doing it without a good reason/goal.
   
 - Q: Introvert or extrovert?
 - A: Introvert
